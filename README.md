@@ -47,7 +47,8 @@ The solution enables Primary Care Managers and decision makers with proactive an
 
 # Power BI Dashboard
 
-![image](https://github.com/mikelenart/hack-together-fabric-ai/assets/61514817/db3809c3-70d1-4372-beeb-0ae0c7199a95)
+![image](https://github.com/mikelenart/hack-together-fabric-ai/assets/61514817/92e29a77-aba8-4d2e-ae3f-2568a23d6f24)
+
 
 
 # Video
