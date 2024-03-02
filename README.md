@@ -45,6 +45,10 @@ The solution enables Primary Care Managers and decision makers with proactive an
 5. Notebook generates a prediction score based on provided data, and loads the prediction scores in the Lakehouse Table
 6. PowerBI report built on top of the Lakehouse Table where prediction scores are saved, is refreshed
 
+# Power BI Dashboard
+
+![image](https://github.com/mikelenart/hack-together-fabric-ai/assets/61514817/db3809c3-70d1-4372-beeb-0ae0c7199a95)
+
 
 # Video
 link
