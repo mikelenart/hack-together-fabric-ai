@@ -62,4 +62,4 @@ Microsoft Fabric enables engineers to stitch together various services in a sing
 # Video
 
 The demo video for submission is in the video folder of this REPO. Below is the link of the same:
-![video link](https://github.com/mikelenart/hack-together-fabric-ai/blob/video_sub/video/Microsoft_fabric_hackathon_submission.mp4) 
+![video link](https://github.com/mikelenart/hack-together-fabric-ai/blob/main/video/Microsoft_fabric_hackathon_submission.mp4) 
