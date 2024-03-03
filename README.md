@@ -1,4 +1,4 @@
-# hack-together-fabric-ai
+# Member Disenrollment Prediction
 This repository is used for the Microsoft Hack-Together-Fabric-AI Hackathon
 
 This artical covers the following points:
